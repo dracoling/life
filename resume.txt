@@ -5,41 +5,62 @@ WORK EXPERIENCE
 
   - Steiner Studios, Brooklyn NY (Feb 2007 - Current)
     Network Administrator and Lead Technical Support
+    - Design and manage campus-wide network to provide internet and voip service to movie and television production groups.
+    - Provide desktop, mobile, and server support for highly active rental and construction offices using all major platforms.
+    - Administrate various file and email services, including Filemaker, QuickBooks, Sage Timberline, Postfix, and Microsoft Exchange.
 
   - The Golden Trailer Awards, New York NY and Los Angeles CA (2008 - Current)
     Web Development and Event Technical Support
+    - Built press-embargo system for time-delayed release of information into existing PHP site.
+    - Provide occasional office and event technical support including video and media preparation and on-site logistics.
 
   - StarFyre Network Services, Bordentown NJ (May 2004 - February 2007)
     Head of Internet Projects
+    - Developed conference registration system from scratch for ANJEE using Ruby on Rails
+    - Various website related projects utilizing primarily PHP and Ruby on Rails
 
   - Creative Computing, Princeton NJ (December 2000 - May 2004)
     Senior Developer and Level 2 Support Agent
+    - Designed and lead development on EzIEP, a PHP and JavaScript based educational planning tool
+    - Provided day-to-day PC/Mac level 2 support for the Princeton Theological Seminary
+    - Created Perl-based web proxy to enable text-to-speech on educational websites
 
   - Alliance for New Jersey Environmental Education, Trenton NJ (1999)
     Webmaster
+    - Designed and updated website
+    - Moved web presence from a sub-site of an educational partner to their own domains
 
   - NJPIRG, Trenton NJ (1998)
     Web Application Developer
+    - Built web application using Perl and MySQL to provide public access to collected water contamination information
+    - Created maps and models using various Esri GIS tools for public and private presentations
 
 VOLUNTEER EXPERIENCE
 
   - RiseMc Minecraft Network, Online (April 2013 - Current)
     Technical Administrator
+    - Maintain and secure Minecraft servers on Debian Linux
+    - Developed inter-server permissions and user promotion system using Python and JSONAPI
 
   - Forte Dramatic Productions, Hamilton NJ (2013 - Current)
     Founding Board Member
+    - Technical advisor for internet-based technologies and theatrical sound
 
   - Wildfire Retreat, Ashford CT (2013)
     Music and DJ Organizer
+    - Coordinate and facilitate music for fire-arts training retreat
 
   - Wildfire Retreat, Ashford CT (2011-12)
     Fire Spinning Safety Veteran
+    - Safety instruction and supervision for fire performance and training
 
   - Consolidated Awesome, Various Locations (2011 - Current)
     Founder and Event Coordinator
+    - Coordinate and direct adventures for members of organization
 
   - American Tour de Sol, Various Locations (1994 - 2004)
     Event Volunteer
+    - On-site event support for alternative and electric vehicle road rally
 
   - StarFyre IRC Network, Online (2000 - Current)
     Network and Server Administrator
